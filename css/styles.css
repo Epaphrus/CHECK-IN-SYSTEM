@@ -1,0 +1,15 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#reader {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#result {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
